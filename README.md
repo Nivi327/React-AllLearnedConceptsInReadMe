@@ -1,3 +1,17 @@
+# Concepts that are used in react by the author Nivas to make this app
+
+# --> Using the css modules to get the unique classnames
+# --> Setting up the REUSABLE components in UI folder in components
+# --> Adding a Modal Via The React Portal
+# --> Adding the Context and UseContext in the store folder
+# --> Using the UseReducer instead of USeState to manage the state (Instead of using 2 Usestates we just used on useReducer). USeReducer is complex but it is very useful.
+# --> Working with refs anf ForwardRefs(For Components) in Input.js file in UI folder
+# --> Working with the useEffect and USeEffectCleanUp function in the HEaderCartButton.js file in LayOut Folder --> setTimeOut and ClearTimeOut
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
